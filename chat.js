@@ -127,7 +127,7 @@ var Lequation;
 var integralJson = $.getJSON({
 	url: "https://spreadsheets.google.com/feeds/list/1J9s2YhV63nTZ-8hnPqnAjYukzjZSj6z3WJkR_1CVzZg/od6/public/values?alt=json",
 	success: function(data) {
-		var daysSinceBeginning = 17896;
+		var daysSinceBeginning = 17916;
 		var date = new Date();
 		var daysSinceEpoch = Math.floor(date / 8.64e7);
 		var daysSinceBeginning = daysSinceEpoch - daysSinceBeginning;
