@@ -142,6 +142,7 @@ var integralJson = $.getJSON({
 		if(daysSinceBeginning==17900){
 			Fullintegral="$$\\\int"+Lequation+"dx="+Lintegral+"$$";
 		}
+		MathJax.Hub.Config({messageStyle: "none"});
 		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]);
 		document.getElementById("Fullintegral").innerHTML = Fullintegral;
 		var graph = document.getElementById('graph');
