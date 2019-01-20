@@ -127,7 +127,7 @@ var Lequation;
 var integralJson = $.getJSON({
 	url: "https://spreadsheets.google.com/feeds/list/1J9s2YhV63nTZ-8hnPqnAjYukzjZSj6z3WJkR_1CVzZg/od6/public/values?alt=json",
 	success: function(data) {
-		var daysSinceBeginning = 17916;
+		var daysSinceBeginning = 17896;
 		var date = new Date();
 		var daysSinceEpoch = Math.floor(date / 8.64e7);
 		var daysSinceBeginning = daysSinceEpoch - daysSinceBeginning;
@@ -139,7 +139,7 @@ var integralJson = $.getJSON({
 		console.log(Fullintegral);
 		console.log(Lequation);
 		Fullintegral="$$\\\int"+Lequation+"dx="+Lintegral+"+c$$";
-		if(daysSinceBeginning=17900){
+		if(daysSinceBeginning==17900){
 			Fullintegral="$$\\\int"+Lequation+"dx="+Lintegral+"$$";
 		}
 		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]); 
