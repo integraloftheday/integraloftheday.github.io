@@ -119,7 +119,7 @@ function arctan(x) {
 	return Math.atan(x);
 }
 //cos, sin, tan, sec, csc, cot, arcsin, arccos, arctan
-var equation; 
+var equation;
 var Fullintegral;
 var integral;
 var Lintegral;
@@ -142,7 +142,7 @@ var integralJson = $.getJSON({
 		if(daysSinceBeginning==17900){
 			Fullintegral="$$\\\int"+Lequation+"dx="+Lintegral+"$$";
 		}
-		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]); 
+		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]);
 		document.getElementById("Fullintegral").innerHTML = Fullintegral;
 		var graph = document.getElementById('graph');
 		draw();
