@@ -3,7 +3,7 @@ var x = 0;
 function fun1(xval) {
 	x = xval;
 	//return sin(xval);
-	return eval(integral);
+	return eval(Equation);
 }
 
 function draw() {
@@ -119,7 +119,9 @@ function arctan(x) {
 	return Math.atan(x);
 }
 //cos, sin, tan, sec, csc, cot, arcsin, arccos, arctan
-var integral
+var Equation; 
+var Fullintegral;
+var integral;
 var integralJson = $.getJSON({
 	url: "https://spreadsheets.google.com/feeds/list/1J9s2YhV63nTZ-8hnPqnAjYukzjZSj6z3WJkR_1CVzZg/od6/public/values?alt=json",
 	success: function(data) {
@@ -128,9 +130,12 @@ var integralJson = $.getJSON({
 		var daysSinceEpoch = Math.floor(date / 8.64e7);
 		var daysSinceBeginning = daysSinceEpoch - daysSinceBeginning;
 		console.log("Day " + daysSinceBeginning);
+		Equation = data.feed.entry[daysSinceBeginning].gsx$equation.$t;
 		integral = data.feed.entry[daysSinceBeginning].gsx$integral.$t;
-		console.log(integral);
-		document.getElementById("integral").innerHTML = integral;
+
+		Fullintegral="Integrate "+Equation+"dx"+"="+ integral+"+c"
+		console.log(Fullintegral);
+		document.getElementById("Fullintegral").innerHTML = Fullintegral;
 		var graph = document.getElementById('graph');
 		draw();
 	}
