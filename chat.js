@@ -143,7 +143,7 @@ var integralJson = $.getJSON({
 			Fullintegral="$$\\\int"+Lequation+"dx="+Lintegral+"$$";
 		}
 		document.getElementById("Fullintegral").innerHTML = Fullintegral;
-		MathJax.Hub.Config({messageStyle: "none"});
+		MathJax.Hub.Config({messageStyle: "none", showMathMenu: false});
 		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]);
 
 		var graph = document.getElementById('graph');
