@@ -1,0 +1,237 @@
+done
+EQUATIONS
+sin((10)*((8)*(x)))
+((pi)+(cos(exp((x)*(8)))))/(((5)+(4))+(exp(5)))
+(csc((x)+(x)))+(4)
+(6)+(exp((x)/(exp(10)**pi)))
+sin(sec(((x)*((x)*(x)))/(3**cot(4**csc(6)))))
+(cos(((x)*(6))+(exp(cos((3)/(2**1))))))+((10)*(pi))**(6)+(sec(sec(6)))
+(x)/((7)*(exp(x)))
+cos(csc(exp(sec(x))))
+(3)+(cot(sec(x)))
+csc((tan(sec(7)))/((csc(((3)-(pi))*(exp(10**tan(2)))))+(pi)))
+tan(10)**(3)+((x)/((((x)-(pi))+(8)**cos(cot(2)))+(2)))
+(tan((8)+((x**2)/(exp(pi)))))-((sec(1))*(cot(x)))
+((5)/(x))-(csc(10))
+(10)-((5)/(9))**x
+(2)+((x)*(csc((x)*(1))))
+cot((((x)-(x))-((exp(exp(x)))*(10)))+(9))
+sin((x)/((9)-(x)))
+((sin(1**sin(cot(2))))/(tan(((exp(x))/(9))+(6))))*(5)
+(x)/((10)+((tan(4))/(x)))
+((9)*((2)-((6)*(7))**x))*(sec(((x)-(x))-(7)))
+4**(8)/(9**(x)-(6)**x)
+(cos(9)**2)*(x**x)
+((tan((4)-(8)))-(6))*((x)/((2)-(6)))
+x**5**(x)+(csc(9))
+(csc(tan(7)))*(x**7)
+(3)+((x)/(csc(1)))
+(6**(exp(6))+(exp(x)))*(10)
+((7)/(x))-((x)-(x**x))
+(tan(8))+(exp(x))
+(cos(x))+((9)+((7)*(tan(8))))
+cot(((6)/(4))*((x)-(cos((x)/((x)+(1))))))
+(4)/((3)/((x)+(pi)))
+(((x)/(6))-(8))-(sec((2)*(sin(sec(9)))))
+((4)-((2)*((x)-(x))))*(sin(8))**csc(csc(2))
+x**((x)-(x)**7**4)*((1)-(1))
+((3)+((x)-(pi)))*((sin(6))*((5)-(x)))
+((1)+(1**x))/(9)
+cos(7**(x)*(csc(2)))
+(cos(exp(exp(pi))))*((pi)*(5))
+(x)/(tan(tan(7)))
+sin((x)+((((csc(cot(2)))*(x))/((cos(2))*(x)))-(1)))
+x**(x)+((csc((9)/(4)))+(x**5))
+exp(sin(((csc(csc(pi)))-((10)*((x)+(((3)/((x)-(x)))-((x)/(9))))))+(sin(8))))
+((x)-(10**2))+((9)*(9))
+sec((cos(7))*(x))
+((tan((sec(8))*(sin(x))))+(4))-(4)
+(6)/((exp(10))+(5))
+(x)/((((cot((9)+(6)))*(sin(3)))*(sec(((8)-((pi)*(3)**x))*(exp(3)))))*((pi)-(10)))
+((cos(exp((x)+(7))))/(x))/(x)
+pi**sin(exp(exp(((7)*(x))-(((x)-(x))/(x)))))
+(x)+(tan((tan(tan(cos(10))))/(exp(7))))
+(x)+(((x)/(sin(x))**1**7**7)-(x))
+sec((((9)-(x))*(x))/(x))
+sec((10)+(exp(x)))
+exp(1)**x**(10)-(x)
+(x)-((8**4)-(sec(x)))
+(tan(x)**cot(2))-(cot(8))**x
+cot((x**9)/((10)-(sec(sin(1)))))
+Latex Equations
+\sin{\left (80 x \right )}
+\frac{\cos{\left (e^{8 x} \right )} + \pi}{9 + e^{5}}
+\csc{\left (2 x \right )} + 4
+e^{\frac{x}{e^{10 \pi}}} + 6
+\sin{\left (\sec{\left (\frac{x^{3}}{3^{\cot{\left (4^{\csc{\left (6 \right )}} \right )}}} \right )} \right )}
+\cos{\left (6 x + 1.07329912758172 \right )} + \sec{\left (\sec{\left (6 \right )} \right )} + 1000000 \pi^{6}
+\frac{x e^{- x}}{7}
+\cos{\left (\csc{\left (e^{\sec{\left (x \right )}} \right )} \right )}
+\cot{\left (\sec{\left (x \right )} \right )} + 3
+\csc{\left (\frac{\tan{\left (\sec{\left (7 \right )} \right )}}{\csc{\left (\left(- \pi + 3\right) e^{10^{\tan{\left (2 \right )}}} \right )} + \pi} \right )}
+\frac{x}{x - \pi + 2 + 8^{\cos{\left (\cot{\left (2 \right )} \right )}}} + \tan^{3}{\left (10 \right )}
+\tan{\left (\frac{x^{2}}{e^{\pi}} + 8 \right )} - \cot{\left (x \right )} \sec{\left (1 \right )}
+- \csc{\left (10 \right )} + \frac{5}{x}
+- 0.555555555555556^{x} + 10
+x \csc{\left (x \right )} + 2
+- \cot{\left (10 e^{e^{x}} - 9 \right )}
+\sin{\left (\frac{x}{- x + 9} \right )}
+\frac{5 \sin{\left (1 \right )}}{\tan{\left (\frac{e^{x}}{9} + 6 \right )}}
+\frac{x}{10 + \frac{\tan{\left (4 \right )}}{x}}
+\left(- 9 \cdot 42^{x} + 18\right) \sec{\left (7 \right )}
+\frac{65536}{- 6^{x} + 9^{x}}
+x^{x} \cos^{2}{\left (9 \right )}
+- \frac{x \left(-6 - \tan{\left (4 \right )}\right)}{4}
+x^{5^{x}} + \csc{\left (9 \right )}
+x^{7} \csc{\left (\tan{\left (7 \right )} \right )}
+\frac{x}{\csc{\left (1 \right )}} + 3
+10 e^{x} + 10 \cdot 6^{e^{6}}
+- x + x^{x} + \frac{7}{x}
+e^{x} + \tan{\left (8 \right )}
+\cos{\left (x \right )} + 7 \tan{\left (8 \right )} + 9
+\cot{\left (1.5 x - 1.5 \cos{\left (\frac{x}{x + 1} \right )} \right )}
+\frac{4 x}{3} + \frac{4 \pi}{3}
+\frac{x}{6} - 8 - \sec{\left (2 \sin{\left (\sec{\left (9 \right )} \right )} \right )}
+4 \sin^{\csc{\left (\csc{\left (2 \right )} \right )}}{\left (8 \right )}
+0
+\left(- x + 5\right) \left(x - \pi + 3\right) \sin{\left (6 \right )}
+\frac{2}{9}
+\cos{\left (7^{x} \csc{\left (2 \right )} \right )}
+5 \pi \cos{\left (e^{e^{\pi}} \right )}
+\frac{x}{\tan{\left (\tan{\left (7 \right )} \right )}}
+\sin{\left (x - 1 + \frac{\csc{\left (\cot{\left (2 \right )} \right )}}{\cos{\left (2 \right )}} \right )}
+x^{5} + x^{x} + 1.28522612525367
+\mathrm{NaN}
+x - 19
+\sec{\left (x \cos{\left (7 \right )} \right )}
+\tan{\left (\sin{\left (x \right )} \sec{\left (8 \right )} \right )}
+\frac{6}{5 + e^{10}}
+\frac{x}{\left(-10 + \pi\right) \sin{\left (3 \right )} \cot{\left (15 \right )} \sec{\left (\left(- 3^{x} \pi + 8\right) e^{3} \right )}}
+\frac{\cos{\left (e^{x + 7} \right )}}{x^{2}}
+\pi^{\sin{\left (e^{e^{7 x}} \right )}}
+x + \tan{\left (\frac{\tan{\left (\tan{\left (\cos{\left (10 \right )} \right )} \right )}}{e^{7}} \right )}
+\frac{x}{\sin{\left (x \right )}}
+\sec{\left (x - 9 \right )}
+\sec{\left (e^{x} + 10 \right )}
+- x + e^{x^{10}}
+x + \sec{\left (x \right )} - 4096
+\tan^{\cot{\left (2 \right )}}{\left (x \right )} - \cot^{x}{\left (8 \right )}
+\cot{\left (\frac{x^{9}}{- \sec{\left (\sin{\left (1 \right )} \right )} + 10} \right )}
+SOLUTIONS NOW
+-cos(80*x)/80
+(Integral(pi, x) + Integral(cos(exp(8*x)), x))/(9 + exp(5))
+4*x + log(cos(2*x) - 1)/4 - log(cos(2*x) + 1)/4
+6*x + exp(10*pi)*exp(x*exp(-10*pi))
+Integral(sin(sec(3**(-cot(4**csc(6)))*x**3)), x)
+x*sec(sec(6)) + 1000000*pi**6*x + sin(6*x + 1.07329912758172)/6
+(-x - 1)*exp(-x)/7
+Integral(cos(csc(exp(sec(x)))), x)
+Integral(cot(sec(x)) + 3, x)
+x*csc(tan(sec(7))/(csc((-pi + 3)*exp(10**tan(2))) + pi))
+x*(tan(10)**3 + 1) + (-8**cos(cot(2)) - 2 + pi)*log(x - pi + 2 + 8**cos(cot(2)))
+Integral(tan(x**2*exp(-pi) + 8) - cot(x)*sec(1), x)
+-x*csc(10) + 5*log(x)
+1.70129752801814*0.555555555555556**x + 10.0*x
+Integral(x*csc(x) + 2, x)
+-Integral(cot(10*exp(exp(x)) - 9), x)
+-2*x**4/(9*x**2*tan(x/(2*(-x + 9)))**2 + 9*x**2 - 162*x*tan(x/(2*(-x + 9)))**2 - 162*x + 729*tan(x/(2*(-x + 9)))**2 + 729) - 72*x**3*tan(x/(2*(-x + 9)))**2/(9*x**2*tan(x/(2*(-x + 9)))**2 + 9*x**2 - 162*x*tan(x/(2*(-x + 9)))**2 - 162*x + 729*tan(x/(2*(-x + 9)))**2 + 729) + 972*x**2*tan(x/(2*(-x + 9)))**2/(9*x**2*tan(x/(2*(-x + 9)))**2 + 9*x**2 - 162*x*tan(x/(2*(-x + 9)))**2 - 162*x + 729*tan(x/(2*(-x + 9)))**2 + 729) - 5832*x*tan(x/(2*(-x + 9)))**2/(9*x**2*tan(x/(2*(-x + 9)))**2 + 9*x**2 - 162*x*tan(x/(2*(-x + 9)))**2 - 162*x + 729*tan(x/(2*(-x + 9)))**2 + 729) - 13122/(9*x**2*tan(x/(2*(-x + 9)))**2 + 9*x**2 - 162*x*tan(x/(2*(-x + 9)))**2 - 162*x + 729*tan(x/(2*(-x + 9)))**2 + 729)
+5*sin(1)*Integral(1/tan(exp(x)/9 + 6), x)
+x**2/20 - x*tan(4)/100 + log(10*x + tan(4))*tan(4)**2/1000
+-9*42**x*sec(7)/log(42) + 18*x*sec(7)
+-65536*Integral(1/(6**x - 9**x), x)
+cos(9)**2*Integral(x**x, x)
+x**2*(tan(4)/8 + 3/4)
+Integral(x**(5**x) + csc(9), x)
+x**8*csc(tan(7))/8
+x**2/(2*csc(1)) + 3*x
+10*6**exp(6)*x + 10*exp(x)
+-Integral(-7/x, x) - Integral(x, x) - Integral(-x**x, x)
+x*tan(8) + exp(x)
+7*x*tan(8) + 9*x + sin(x)
+0
+2*x**2/3 + 4*pi*x/3
+x**2/12 + x*(-8 - sec(2*sin(sec(9))))
+4*x*sin(8)**csc(csc(2))
+0
+-x**3*sin(6)/3 + x**2*(pi*sin(6)/2 + sin(6)) + x*(15*sin(6) - 5*pi*sin(6))
+2*x/9
+Integral(cos(7**x*csc(2)), x)
+5*pi*x*cos(exp(exp(pi)))
+x**2/(2*tan(tan(7)))
+-cos(x - 1 + csc(cot(2))/cos(2))
+1.28522612525367*(Integral(1.0, x) + Integral(0.778073196887921*x**5, x) + Integral(0.778073196887921*x**x, x))
+nan
+x**2/2 - 19*x
+(-log(sin(x*cos(7)) - 1)/2 + log(sin(x*cos(7)) + 1)/2)/cos(7)
+Integral(tan(sin(x)*sec(8)), x)
+6*x/(5 + exp(10))
+Integral(x/sec(3**x*pi*exp(3) - 8*exp(3)), x)/((-10 + pi)*sin(3)*cot(15))
+Integral(cos(exp(7)*exp(x))/x**2, x)
+Integral(pi**sin(exp(exp(7*x))), x)
+x**2/2 + x*tan(exp(-7)*tan(tan(cos(10))))
+Integral(x/sin(x), x)
+log(tan(x - 9) + sec(x - 9))
+Integral(sec(exp(x) + 10), x)
+-x**2/2 + exp(-I*pi/10)*gamma(1/10)*lowergamma(1/10, x**10*exp_polar(I*pi))/(100*gamma(11/10))
+x**2/2 - 4096*x - log(sin(x) - 1)/2 + log(sin(x) + 1)/2
+Integral(tan(x)**cot(2) - cot(8)**x, x)
+Integral(cot(x**9/(-sec(sin(1)) + 10)), x)
+SOLUTIONS LATEX
+- \frac{\cos{\left (80 x \right )}}{80}
+\frac{\int \pi\, dx + \int \cos{\left (e^{8 x} \right )}\, dx}{9 + e^{5}}
+4 x + \frac{\log{\left (\cos{\left (2 x \right )} - 1 \right )}}{4} - \frac{\log{\left (\cos{\left (2 x \right )} + 1 \right )}}{4}
+6 x + e^{10 \pi} e^{\frac{x}{e^{10 \pi}}}
+\int \sin{\left (\sec{\left (\frac{x^{3}}{3^{\cot{\left (4^{\csc{\left (6 \right )}} \right )}}} \right )} \right )}\, dx
+x \sec{\left (\sec{\left (6 \right )} \right )} + 1000000 \pi^{6} x + \frac{\sin{\left (6 x + 1.07329912758172 \right )}}{6}
+\frac{\left(- x - 1\right) e^{- x}}{7}
+\int \cos{\left (\csc{\left (e^{\sec{\left (x \right )}} \right )} \right )}\, dx
+\int \left(\cot{\left (\sec{\left (x \right )} \right )} + 3\right)\, dx
+x \csc{\left (\frac{\tan{\left (\sec{\left (7 \right )} \right )}}{\csc{\left (\left(- \pi + 3\right) e^{10^{\tan{\left (2 \right )}}} \right )} + \pi} \right )}
+x \left(\tan^{3}{\left (10 \right )} + 1\right) + \left(- 8^{\cos{\left (\cot{\left (2 \right )} \right )}} - 2 + \pi\right) \log{\left (x - \pi + 2 + 8^{\cos{\left (\cot{\left (2 \right )} \right )}} \right )}
+\int \left(\tan{\left (\frac{x^{2}}{e^{\pi}} + 8 \right )} - \cot{\left (x \right )} \sec{\left (1 \right )}\right)\, dx
+- x \csc{\left (10 \right )} + 5 \log{\left (x \right )}
+1.70129752801814 \cdot 0.555555555555556^{x} + 10.0 x
+\int \left(x \csc{\left (x \right )} + 2\right)\, dx
+- \int \cot{\left (10 e^{e^{x}} - 9 \right )}\, dx
+- \frac{2 x^{4}}{9 x^{2} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 9 x^{2} - 162 x \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} - 162 x + 729 \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 729} - \frac{72 x^{3} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )}}{9 x^{2} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 9 x^{2} - 162 x \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} - 162 x + 729 \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 729} + \frac{972 x^{2} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )}}{9 x^{2} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 9 x^{2} - 162 x \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} - 162 x + 729 \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 729} - \frac{5832 x \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )}}{9 x^{2} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 9 x^{2} - 162 x \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} - 162 x + 729 \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 729} - \frac{13122}{9 x^{2} \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 9 x^{2} - 162 x \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} - 162 x + 729 \tan^{2}{\left (\frac{x}{- 2 x + 18} \right )} + 729}
+5 \sin{\left (1 \right )} \int \frac{1}{\tan{\left (\frac{e^{x}}{9} + 6 \right )}}\, dx
+\frac{x^{2}}{20} - \frac{x \tan{\left (4 \right )}}{100} + \frac{\log{\left (10 x + \tan{\left (4 \right )} \right )} \tan^{2}{\left (4 \right )}}{1000}
+- \frac{9 \cdot 42^{x} \sec{\left (7 \right )}}{\log{\left (42 \right )}} + 18 x \sec{\left (7 \right )}
+- 65536 \int \frac{1}{6^{x} - 9^{x}}\, dx
+\cos^{2}{\left (9 \right )} \int x^{x}\, dx
+x^{2} \left(\frac{\tan{\left (4 \right )}}{8} + 0.75\right)
+\int \left(x^{5^{x}} + \csc{\left (9 \right )}\right)\, dx
+\frac{x^{8} \csc{\left (\tan{\left (7 \right )} \right )}}{8}
+\frac{x^{2}}{2 \csc{\left (1 \right )}} + 3 x
+10 \cdot 6^{e^{6}} x + 10 e^{x}
+- \int \left(- \frac{7}{x}\right)\, dx - \int x\, dx - \int \left(- x^{x}\right)\, dx
+x \tan{\left (8 \right )} + e^{x}
+7 x \tan{\left (8 \right )} + 9 x + \sin{\left (x \right )}
+0
+\frac{2 x^{2}}{3} + \frac{4 \pi x}{3}
+\frac{x^{2}}{12} + x \left(-8 - \sec{\left (2 \sin{\left (\sec{\left (9 \right )} \right )} \right )}\right)
+4 x \sin^{\csc{\left (\csc{\left (2 \right )} \right )}}{\left (8 \right )}
+0
+- \frac{x^{3} \sin{\left (6 \right )}}{3} + x^{2} \left(\frac{\pi \sin{\left (6 \right )}}{2} + \sin{\left (6 \right )}\right) + x \left(15 \sin{\left (6 \right )} - 5 \pi \sin{\left (6 \right )}\right)
+\frac{2 x}{9}
+\int \cos{\left (7^{x} \csc{\left (2 \right )} \right )}\, dx
+5 \pi x \cos{\left (e^{e^{\pi}} \right )}
+\frac{x^{2}}{2 \tan{\left (\tan{\left (7 \right )} \right )}}
+- \cos{\left (x - 1 + \frac{\csc{\left (\cot{\left (2 \right )} \right )}}{\cos{\left (2 \right )}} \right )}
+1.28522612525367 \int 1.0\, dx + 1.28522612525367 \int 0.778073196887921 x^{5}\, dx + 1.28522612525367 \int 0.778073196887921 x^{x}\, dx
+\mathrm{NaN}
+\frac{x^{2}}{2} - 19 x
+\frac{- \frac{\log{\left (\sin{\left (x \cos{\left (7 \right )} \right )} - 1 \right )}}{2} + \frac{\log{\left (\sin{\left (x \cos{\left (7 \right )} \right )} + 1 \right )}}{2}}{\cos{\left (7 \right )}}
+\int \tan{\left (\sin{\left (x \right )} \sec{\left (8 \right )} \right )}\, dx
+\frac{6 x}{5 + e^{10}}
+\frac{\int \frac{x}{\sec{\left (3^{x} \pi e^{3} - 8 e^{3} \right )}}\, dx}{\left(-10 + \pi\right) \sin{\left (3 \right )} \cot{\left (15 \right )}}
+\int \frac{\cos{\left (e^{7} e^{x} \right )}}{x^{2}}\, dx
+\int \pi^{\sin{\left (e^{e^{7 x}} \right )}}\, dx
+\frac{x^{2}}{2} + x \tan{\left (\frac{\tan{\left (\tan{\left (\cos{\left (10 \right )} \right )} \right )}}{e^{7}} \right )}
+\int \frac{x}{\sin{\left (x \right )}}\, dx
+\log{\left (\tan{\left (x - 9 \right )} + \sec{\left (x - 9 \right )} \right )}
+\int \sec{\left (e^{x} + 10 \right )}\, dx
+- \frac{x^{2}}{2} + 0.1 e^{- \frac{i \pi}{10}} \gamma\left(0.1, x^{10} e^{i \pi}\right)
+\frac{x^{2}}{2} - 4096 x - \frac{\log{\left (\sin{\left (x \right )} - 1 \right )}}{2} + \frac{\log{\left (\sin{\left (x \right )} + 1 \right )}}{2}
+\int \left(\tan^{\cot{\left (2 \right )}}{\left (x \right )} - \cot^{x}{\left (8 \right )}\right)\, dx
+\int \cot{\left (\frac{x^{9}}{- \sec{\left (\sin{\left (1 \right )} \right )} + 10} \right )}\, dx

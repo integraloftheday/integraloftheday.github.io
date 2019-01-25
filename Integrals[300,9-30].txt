@@ -1,0 +1,1053 @@
+done
+EQUATIONS
+(csc(x))+(cot(5))
+tan((1)/(x))
+exp(sec(6))
+(x)-(cot(1))
+exp((csc(x))/((2**3)*(9)))
+(x)+(cos(pi))
+(x)/(8**sin(exp(x)))
+(x)*((9)/(sin((8)-(10))))
+cot(sec(exp(1)))
+(x)/(cot(9)**1)
+(7)/((x)+((8)/(pi)))
+(5)-((2)+(x))
+(x)*((sin(6))+(x))
+exp(cot(5))
+(x)*(csc(x))
+cot(csc(1))**x
+((x)/(x))+(x)
+((x)/(x))*(x)
+((cos(9))-(4))/(x)
+(x)*((7)/(x))
+((x)-(x))*(4)
+cos((csc(x))*(pi))
+exp(tan(9))
+(sec(x))*(5)
+tan(exp(5))
+tan(sin(1**x))
+cos((exp(sec(9)))+(cos(2)))
+exp(x)**pi
+exp((1)/(x))
+(csc((x)+(sec(pi))))*(1)
+(3)/(exp(2))**exp(sin(x))
+((pi)+(x))+(x)
+(sin(pi))+(x)
+cos(exp(x))
+(cot(exp(x)))*(x)
+exp((8)-(sin(6)))
+(csc(3))*(tan(x**3))
+(x)*(((6)/(1))+(sec(cot(3))))
+(x)-(sin(x))
+(2)*(exp(8))
+exp((3)/(6))
+(tan(9**x))+(x)
+sin(cos(cos(x)))
+((2)+(x)**2)*(4)
+(4)-(cos((x)+(1)))
+(x)-((pi)-(10))
+tan((x)*(pi))
+(cos(pi))+(exp(1))
+(x)/((5)/(5))
+sin(exp(8))
+sin((exp(tan(5)))*(x))
+9**(9)*(x)
+(csc((10)/(2)))/((x)-(3))
+(x**7)*(x)
+sin(pi)**sec(cos(x))
+(x)+(sin(5))
+(pi)*(((5)+(x))*(x))
+(4)-((3)+(x))
+x**cos(((5)-(7))*(3))
+exp(sin(x))
+(tan(exp(8)))-(exp((5)/(7)))
+(7)/(((sec(x))/(10))/(x))
+((9)-(x))*(((7)*(x))*(x))
+(tan((cot(1))-(x)))+(tan(x))
+(x)+((7)+(7))
+(4)-(tan(x))
+((x)+((6)+(cos(x))))*(7)
+((pi)+(9))+((x)-(cot(6)))
+sin((4)-(exp(6)**x))
+(cot(cot(exp(6)))**9**7)-(x)
+cot(exp(6))**x
+csc((10)-(x))
+(x)+(cos(x)**x)
+sec((x)*(10))
+(cos(x))-(x)
+(x)+(cos(cot(csc(sin(x)))))
+(sec((x)*(x)))/(x)
+(exp(6))+(5)**2
+((csc(pi))+(x)**4)-(8)
+(1)-(sin((x)*((x)+(2))))
+(1)*((x)*(x))
+(x)/(csc(exp(9)))
+(x)+(sec(1))
+(x)+(tan(x))
+(1)*(((9)-(cos(x)))/(pi))
+csc(x)**sin(2)**x
+(x)-(csc(5))
+(pi)+(csc(x))
+(x)*(sec(x))
+sin(csc(x))
+tan(sec(x))
+(exp((2)+(x)))-((6)*(x))
+sin(x)**x**1
+((exp(2))-(pi))*(1)
+((x)-(x))*(1)
+(cos((cos(8))-(1)))/(x)
+7**(3)/(x)
+sin((csc(10))/(x))
+(csc(9))/(x)
+(csc(x))+(sec(pi))
+(x)-((exp(9))/(7))
+exp(10)**7
+(exp(4))-(5)
+(x)/((1)*(sec((x)/(4))))
+(2)-((9)+(x**x))
+tan((x)*(exp((x)+(5))))
+exp(cot(3))
+(cot(9))+(x)
+sin(exp(1))
+(cot(9)**x)+((1)-(csc(8))**7)
+tan((x)/((10)*(tan(6))))
+5**(9**x)/((2)+((x)*(6)))
+2**cot(8**sin((x)/(pi)))**4
+5**exp((8)*(2))
+cot(cot((9)/(exp(5))))
+(7)+(x)**5
+exp((8)/(x))
+(6)-((x)+(1))
+csc((x)-(exp(exp(9))))
+cot(1**((x)+(9))-(6))
+sin((9)*((6)-(x)))
+cot(cot(x))
+(tan(x))/(pi)
+sin((exp(sin(2)))-(sec(6)))
+exp(cot(x))
+((cos(x))/(8))-((x)/(8))
+((x)*(8))+(3)
+sec((exp(pi))/(sec(exp(4))))
+(x)*(5**sin(x))
+(x)*((9)+(sin(x)))
+cot(x**10)
+(6)+((x)-(tan(exp(1))))
+(8)-(((cot(x))/(sin(9)))*(6))
+(6)+(sec(x))
+((x)*(6))-((7)-(4))
+((4)/(x**x))*(pi)
+exp(csc(7))
+(sin(x))/(2)
+(x)+((5)+(2))
+(9)+(((8)/(x))/(2))**8
+(pi)*(csc(x))
+(1)/((3)/((x)-(x)))
+(x)/(3)**6
+(x)+((tan(pi))*(7))
+(9)+(exp(1))
+(cos(x))/(sec(9))
+(x**(9)/(x))/(cos(5))
+exp(((pi)+(8))+(2))
+(cot(pi))*((3)/(sin(x)))
+(6)*(((1)-(csc(tan(5))))-(x))
+(sec(x))/(tan(cot(x)))
+(((10)/(pi))-(x))+(x)
+(4**(6)*(4))*(4**x)**exp(6)
+x**8**(cos(7))+(9)
+cot(csc((x)-(x)))
+(x)/((6)-(4))
+(x)+((cot(tan(csc(x))))-(5))
+(x)+((cot(3))+(x))
+((x)/(3))*(x)
+(tan((x)/(x)))-(6)
+(x)+((6)-(tan(8)))
+(x)*(((csc(pi))/(x))/(x))
+(8)-((sec(x))/(3))
+((tan(x))/(6))+(8)
+sin(cos((x)/(exp(csc(x)))))
+(x)-((x)-(2))
+exp(exp(x))
+(tan(x))+(x)
+cot(exp((2)-(7)))
+sin(exp(7))
+(1)/(cos((tan(x))*(x)))
+(x)/(csc(pi))
+(tan(6))+(x)
+(6)/((8)/(x))
+sin(exp((cot(pi))-(x)**pi))
+(6**x)/(exp(cos(x)))
+(cos(sin(cos(x))))+(9)
+((x)/(tan((5)/(exp(3)))))*(7)
+(1)+(4)**x
+((3**csc(x))*(9**1))-(x)
+(x)+((6)-(8))
+((3)+(x))-((x)+(tan(9)))
+(x)*(exp(1))
+(csc(x))-(x)
+((8)*(9))+(x)
+(x)*(cot(exp(4)))
+(x)+(sin((7)*(8)))
+(5)*((x)-(3)**(sin(7))-(10))
+(1)-((x)-(exp(8)))**x
+((5)*((1)*(x)))+(csc(6))
+(6)+((csc(pi))+(x))
+(5)*(tan(sin(sin(x))))
+(tan(((3)*(x))+(x)))+(1)
+(x)-(cot((cot(cos(9)))-(1)))
+(1)*(cos(x))
+(4)/((x)+(x))
+(csc(x))+((x)*(pi))
+(4**(exp(8))*(x))+(7)
+((6)-(cot(tan(8))))/(sec(x))
+((x)-(x))+(csc(pi))
+cos(exp(2))
+exp(csc(x))
+(x**3)-(5)
+(x)/(sec(9))
+(cot(x))*(10)**(1)-(2)
+(x)*(((9)-(x))/(x)**(7)-(2))
+(x)-((5)+((x)-(9)))
+((3)/((x)/(2)))/(5)
+((10)*(4))+((1)-(x))
+exp((1)+(9))
+sin((csc(cot(1)))/(x))
+cot((10**x)-((3)*(4)))
+cos(cos(cos(x)))
+(x)/((x)*(2))
+tan((x)-(9))
+(cos(exp(x)))*(6)
+(csc(6))-(x)
+(9)*((x)/(7))
+cos((4)*(x))
+(cot(pi))*(tan(x))
+((x)+(x))-(x)
+(((x)/(x))/(2))*(7)
+sin(sin(2)**cot(cos(x)))
+cot(3**4**x)
+cos(sec(x))
+exp((4)-(exp(10)))
+tan((x)+(9**x))
+(5**5)+(x)
+(x)-(tan(5))
+(x)-(cos(x))
+((5)*(9)**x)*(1)
+tan(tan(((3)*(x))/(5)))
+((exp(csc(8)))/(4**7))-(8)
+((10)-(x))-(3)
+((4)+(x))+(pi)
+((sin(5))+(x))/(8)
+((x)+(exp(3)))/(9)
+(sin(6))/(x)
+(sec(x))*(2)
+cot(csc(exp(sin(5))))
+(pi)/((2)+(exp((pi**x)*(8))))
+(x**x)-(tan(pi))
+csc((cos(9))*(x))
+tan(csc((sec(x))-(x)))
+exp(tan(6)**x)
+(csc(sec(exp(5))))/(x)
+(x)+(((pi)/(4))+(sin(5)))
+(sin(sin(10)))/(tan((x)/(x)))
+cos(sec(x))
+(exp(1))*((x)/(sin(5)))
+cos(exp(sin(tan(x))))
+(3**x)-(4)
+exp((x)*((6)+(x)))
+x**exp((x)*(10))
+(3)-(exp(8))
+(x)+((x)*(pi))
+(x)*(tan(8))
+(7**exp(5))*(7)
+(csc((x)+(x)))*(10)
+(x)*(((sin(9))-(x))*(x))**7
+x**(sin(7))-(9)
+cos(((cos(1))-(x))*(3))
+Latex Equations
+\csc{\left (x \right )} + \cot{\left (5 \right )}
+\tan{\left (\frac{1}{x} \right )}
+e^{\sec{\left (6 \right )}}
+x - \cot{\left (1 \right )}
+e^{\frac{\csc{\left (x \right )}}{72}}
+x - 1
+8^{- \sin{\left (e^{x} \right )}} x
+- \frac{9 x}{\sin{\left (2 \right )}}
+\cot{\left (\sec{\left (e \right )} \right )}
+\frac{x}{\cot{\left (9 \right )}}
+\frac{7}{x + \frac{8}{\pi}}
+- x + 3
+x \left(x + \sin{\left (6 \right )}\right)
+e^{\cot{\left (5 \right )}}
+x \csc{\left (x \right )}
+\cot^{x}{\left (\csc{\left (1 \right )} \right )}
+x + 1
+x
+\frac{-4 + \cos{\left (9 \right )}}{x}
+7
+0
+\cos{\left (\pi \csc{\left (x \right )} \right )}
+e^{\tan{\left (9 \right )}}
+5 \sec{\left (x \right )}
+\tan{\left (e^{5} \right )}
+\tan{\left (\sin{\left (1 \right )} \right )}
+\cos{\left (\cos{\left (2 \right )} + e^{\sec{\left (9 \right )}} \right )}
+\left(e^{x}\right)^{\pi}
+e^{\frac{1}{x}}
+\csc{\left (x - 1 \right )}
+3 e^{- 2 e^{\sin{\left (x \right )}}}
+2 x + \pi
+x
+\cos{\left (e^{x} \right )}
+x \cot{\left (e^{x} \right )}
+e^{- \sin{\left (6 \right )} + 8}
+\tan{\left (x^{3} \right )} \csc{\left (3 \right )}
+x \left(\sec{\left (\cot{\left (3 \right )} \right )} + 6.0\right)
+x - \sin{\left (x \right )}
+2 e^{8}
+1.64872127070013
+x + \tan{\left (9^{x} \right )}
+\sin{\left (\cos{\left (\cos{\left (x \right )} \right )} \right )}
+4 x^{2} + 8
+- \cos{\left (x + 1 \right )} + 4
+x - \pi + 10
+\tan{\left (\pi x \right )}
+-1 + e
+1.0 x
+\sin{\left (e^{8} \right )}
+\sin{\left (\frac{x}{e^{- \tan{\left (5 \right )}}} \right )}
+387420489 x
+- \frac{1.04283521277141}{x - 3}
+x^{8}
+0^{\sec{\left (\cos{\left (x \right )} \right )}}
+x + \sin{\left (5 \right )}
+\pi x \left(x + 5\right)
+- x + 1
+x^{\cos{\left (6 \right )}}
+e^{\sin{\left (x \right )}}
+-2.04272707026614 + \tan{\left (e^{8} \right )}
+\frac{70 x}{\sec{\left (x \right )}}
+7 x^{2} \left(- x + 9\right)
+\tan{\left (x \right )} - \tan{\left (x - \cot{\left (1 \right )} \right )}
+x + 14
+- \tan{\left (x \right )} + 4
+7 x + 7 \cos{\left (x \right )} + 42
+x + \pi - \cot{\left (6 \right )} + 9
+- \sin{\left (e^{6 x} - 4 \right )}
+- x + \cot^{4782969}{\left (\cot{\left (e^{6} \right )} \right )}
+\cot^{x}{\left (e^{6} \right )}
+- \csc{\left (x - 10 \right )}
+x + \cos^{x}{\left (x \right )}
+\sec{\left (10 x \right )}
+- x + \cos{\left (x \right )}
+x + \cos{\left (\cot{\left (\csc{\left (\sin{\left (x \right )} \right )} \right )} \right )}
+\frac{\sec{\left (x^{2} \right )}}{x}
+25 + e^{6}
+x^{4} + \tilde{\infty}
+- \sin{\left (x \left(x + 2\right) \right )} + 1
+x^{2}
+\frac{x}{\csc{\left (e^{9} \right )}}
+x + \sec{\left (1 \right )}
+x + \tan{\left (x \right )}
+\frac{- \cos{\left (x \right )} + 9}{\pi}
+\csc^{\sin^{x}{\left (2 \right )}}{\left (x \right )}
+x - \csc{\left (5 \right )}
+\csc{\left (x \right )} + \pi
+x \sec{\left (x \right )}
+\sin{\left (\csc{\left (x \right )} \right )}
+\tan{\left (\sec{\left (x \right )} \right )}
+- 6 x + e^{x + 2}
+\sin^{x}{\left (x \right )}
+- \pi + e^{2}
+0
+\frac{\cos{\left (- \cos{\left (8 \right )} + 1 \right )}}{x}
+\frac{343}{x}
+\sin{\left (\frac{\csc{\left (10 \right )}}{x} \right )}
+\frac{\csc{\left (9 \right )}}{x}
+\csc{\left (x \right )} - 1
+x - \frac{e^{9}}{7}
+e^{70}
+-5 + e^{4}
+\frac{x}{\sec{\left (\frac{x}{4} \right )}}
+- x^{x} - 7
+\tan{\left (x e^{x + 5} \right )}
+e^{\cot{\left (3 \right )}}
+x + \cot{\left (9 \right )}
+\sin{\left (e \right )}
+\cot^{x}{\left (9 \right )} - \csc^{7}{\left (8 \right )} + 1
+\tan{\left (\frac{x}{10 \tan{\left (6 \right )}} \right )}
+\frac{5^{9^{x}}}{6 x + 2}
+2^{\cot^{4}{\left (8^{\sin{\left (\frac{x}{\pi} \right )}} \right )}}
+5^{e^{16}}
+\cot{\left (\cot{\left (\frac{9}{e^{5}} \right )} \right )}
+x^{5} + 7
+e^{\frac{8}{x}}
+- x + 5
+\csc{\left (x - e^{e^{9}} \right )}
+- \cot{\left (5 \right )}
+- \sin{\left (9 x - 54 \right )}
+\cot{\left (\cot{\left (x \right )} \right )}
+\frac{\tan{\left (x \right )}}{\pi}
+\sin{\left (- \sec{\left (6 \right )} + e^{\sin{\left (2 \right )}} \right )}
+e^{\cot{\left (x \right )}}
+- \frac{x}{8} + \frac{\cos{\left (x \right )}}{8}
+8 x + 3
+\sec{\left (\frac{e^{\pi}}{\sec{\left (e^{4} \right )}} \right )}
+5^{\sin{\left (x \right )}} x
+x \left(\sin{\left (x \right )} + 9\right)
+\cot{\left (x^{10} \right )}
+x - \tan{\left (e \right )} + 6
+- \frac{6 \cot{\left (x \right )}}{\sin{\left (9 \right )}} + 8
+\sec{\left (x \right )} + 6
+6 x - 3
+4 \pi x^{- x}
+e^{\csc{\left (7 \right )}}
+\frac{\sin{\left (x \right )}}{2}
+x + 7
+9 + \frac{65536}{x^{8}}
+\pi \csc{\left (x \right )}
+0
+\frac{x}{729}
+x
+e + 9
+\frac{\cos{\left (x \right )}}{\sec{\left (9 \right )}}
+\frac{x^{8}}{\cos{\left (5 \right )}}
+e^{\pi + 10}
+\frac{\tilde{\infty}}{\sin{\left (x \right )}}
+- 6 x - 6 \csc{\left (\tan{\left (5 \right )} \right )} + 6
+\frac{\sec{\left (x \right )}}{\tan{\left (\cot{\left (x \right )} \right )}}
+\frac{10}{\pi}
+16384 \left(4^{x}\right)^{e^{6}}
+x^{8^{\cos{\left (7 \right )}}} + 9
+\mathrm{NaN}
+\frac{x}{2}
+x + \cot{\left (\tan{\left (\csc{\left (x \right )} \right )} \right )} - 5
+2 x + \cot{\left (3 \right )}
+\frac{x^{2}}{3}
+-6 + \tan{\left (1 \right )}
+x + 6 - \tan{\left (8 \right )}
+\frac{\tilde{\infty}}{x}
+- \frac{\sec{\left (x \right )}}{3} + 8
+\frac{\tan{\left (x \right )}}{6} + 8
+\sin{\left (\cos{\left (x e^{- \csc{\left (x \right )}} \right )} \right )}
+2
+e^{e^{x}}
+x + \tan{\left (x \right )}
+\cot{\left (e^{-5} \right )}
+\sin{\left (e^{7} \right )}
+\frac{1}{\cos{\left (x \tan{\left (x \right )} \right )}}
+0
+x + \tan{\left (6 \right )}
+\frac{3 x}{4}
+\mathrm{NaN}
+6^{x} e^{- \cos{\left (x \right )}}
+\cos{\left (\sin{\left (\cos{\left (x \right )} \right )} \right )} + 9
+\frac{7 x}{\tan{\left (\frac{5}{e^{3}} \right )}}
+4^{x} + 1
+9 \cdot 3^{\csc{\left (x \right )}} - x
+x - 2
+- \tan{\left (9 \right )} + 3
+e x
+- x + \csc{\left (x \right )}
+x + 72
+x \cot{\left (e^{4} \right )}
+x + \sin{\left (56 \right )}
+5 x - 50 - 5 \cdot 3^{\sin{\left (7 \right )}}
+- \left(x - e^{8}\right)^{x} + 1
+5 x + \csc{\left (6 \right )}
+x + \tilde{\infty}
+5 \tan{\left (\sin{\left (\sin{\left (x \right )} \right )} \right )}
+\tan{\left (4 x \right )} + 1
+x + \cot{\left (- \cot{\left (\cos{\left (9 \right )} \right )} + 1 \right )}
+\cos{\left (x \right )}
+\frac{2}{x}
+\pi x + \csc{\left (x \right )}
+4^{e^{8}} x + 7
+\frac{- \cot{\left (\tan{\left (8 \right )} \right )} + 6}{\sec{\left (x \right )}}
+\tilde{\infty}
+\cos{\left (e^{2} \right )}
+e^{\csc{\left (x \right )}}
+x^{3} - 5
+\frac{x}{\sec{\left (9 \right )}}
+10 \cot{\left (x \right )} - 2
+x \left(-2 + \frac{- x + 9}{x^{7}}\right)
+4
+\frac{6}{5 x}
+- x + 41
+e^{10}
+\sin{\left (\frac{\csc{\left (\cot{\left (1 \right )} \right )}}{x} \right )}
+\cot{\left (10^{x} - 12 \right )}
+\cos{\left (\cos{\left (\cos{\left (x \right )} \right )} \right )}
+\frac{1}{2}
+\tan{\left (x - 9 \right )}
+6 \cos{\left (e^{x} \right )}
+- x + \csc{\left (6 \right )}
+\frac{9 x}{7}
+\cos{\left (4 x \right )}
+\tilde{\infty} \tan{\left (x \right )}
+x
+\frac{7}{2}
+\sin{\left (\sin^{\cot{\left (\cos{\left (x \right )} \right )}}{\left (2 \right )} \right )}
+\cot{\left (3^{4^{x}} \right )}
+\cos{\left (\sec{\left (x \right )} \right )}
+e^{- e^{10} + 4}
+\tan{\left (9^{x} + x \right )}
+x + 3125
+x - \tan{\left (5 \right )}
+x - \cos{\left (x \right )}
+5 \cdot 9^{x}
+\tan{\left (\tan{\left (\frac{3 x}{5} \right )} \right )}
+-8 + \frac{e^{\csc{\left (8 \right )}}}{16384}
+- x + 7
+x + \pi + 4
+\frac{x}{8} + \frac{\sin{\left (5 \right )}}{8}
+\frac{x}{9} + \frac{e^{3}}{9}
+\frac{\sin{\left (6 \right )}}{x}
+2 \sec{\left (x \right )}
+\cot{\left (\csc{\left (e^{\sin{\left (5 \right )}} \right )} \right )}
+\frac{\pi}{e^{8 \pi^{x}} + 2}
+x^{x}
+\csc{\left (x \cos{\left (9 \right )} \right )}
+- \tan{\left (\csc{\left (x - \sec{\left (x \right )} \right )} \right )}
+e^{\tan^{x}{\left (6 \right )}}
+\frac{\csc{\left (\sec{\left (e^{5} \right )} \right )}}{x}
+x + \sin{\left (5 \right )} + \frac{\pi}{4}
+\frac{\sin{\left (\sin{\left (10 \right )} \right )}}{\tan{\left (1 \right )}}
+\cos{\left (\sec{\left (x \right )} \right )}
+\frac{e x}{\sin{\left (5 \right )}}
+\cos{\left (e^{\sin{\left (\tan{\left (x \right )} \right )}} \right )}
+3^{x} - 4
+e^{x \left(x + 6\right)}
+x^{e^{10 x}}
+- e^{8} + 3
+x + \pi x
+x \tan{\left (8 \right )}
+7 \cdot 7^{e^{5}}
+10 \csc{\left (2 x \right )}
+x^{8} \left(- x + \sin{\left (9 \right )}\right)^{7}
+x^{\sin{\left (7 \right )}} - 9
+\cos{\left (3 x - 3 \cos{\left (1 \right )} \right )}
+SOLUTIONS NOW
+x*cot(5) + log(cos(x) - 1)/2 - log(cos(x) + 1)/2
+Integral(tan(1/x), x)
+x*exp(sec(6))
+x**2/2 - x*cot(1)
+Integral(exp(csc(x)/72), x)
+x**2/2 - x
+Integral(8**(-sin(exp(x)))*x, x)
+-9*x**2/(2*sin(2))
+x*cot(sec(E))
+x**2/(2*cot(9))
+7*log(pi*x + 8)
+-x**2/2 + 3*x
+x**3/3 + x**2*sin(6)/2
+x*exp(cot(5))
+Integral(x*csc(x), x)
+cot(csc(1))**x/log(cot(csc(1)))
+x**2/2 + x
+x**2/2
+(-4 + cos(9))*log(x)
+7*x
+0
+Integral(cos(pi*csc(x)), x)
+x*exp(tan(9))
+-5*log(sin(x) - 1)/2 + 5*log(sin(x) + 1)/2
+x*tan(exp(5))
+x*tan(sin(1))
+x*cos(cos(2) + exp(sec(9)))
+exp(x)**pi/pi
+x*exp(1/x) - Ei(1/x)
+-log(cot(x - 1) + csc(x - 1))
+3*Integral(exp(-2*exp(sin(x))), x)
+x**2 + pi*x
+x**2/2
+Integral(cos(exp(x)), x)
+Integral(x*cot(exp(x)), x)
+x*exp(-sin(6) + 8)
+csc(3)*Integral(tan(x**3), x)
+x**2*(0.5*sec(cot(3)) + 3.0)
+x**2/2 + cos(x)
+2*x*exp(8)
+1.64872127070013*x
+Integral(x + tan(9**x), x)
+Integral(sin(cos(cos(x))), x)
+4*x**3/3 + 8*x
+4*x - sin(x + 1)
+x**2/2 + x*(-pi + 10)
+-log(cos(pi*x))/pi
+x*(-1 + E)
+0.5*x**2
+x*sin(exp(8))
+-exp(-sin(5)/cos(5))*cos(x*exp(sin(5)/cos(5)))
+387420489*x**2/2
+-1.04283521277141*log(1.0*x - 3.0)
+x**9/9
+Integral(0**sec(cos(x)), x)
+x**2/2 + x*sin(5)
+pi*x**3/3 + 5*pi*x**2/2
+-x**2/2 + x
+x**(cos(6) + 1)/(cos(6) + 1)
+Integral(exp(sin(x)), x)
+x*(-2.04272707026614 + tan(exp(8)))
+70*x*tan(x)/sec(x) + 70/sec(x)
+-7*x**4/4 + 21*x**3
+-log(tan(x - cot(1))**2 + 1)/2 - log(cos(x))
+x**2/2 + 14*x
+4*x + log(cos(x))
+7*x**2/2 + 42*x + 7*sin(x)
+x**2/2 + x*(pi - cot(6) + 9)
+-Integral(sin(exp(6*x) - 4), x)
+-x**2/2 + x*cot(cot(exp(6)))**4782969
+cot(exp(6))**x/log(cot(exp(6)))
+log(cot(x - 10) + csc(x - 10))
+Integral(x + cos(x)**x, x)
+-log(sin(10*x) - 1)/20 + log(sin(10*x) + 1)/20
+-x**2/2 + sin(x)
+Integral(x + cos(cot(csc(sin(x)))), x)
+Integral(sec(x**2)/x, x)
+x*(25 + exp(6))
+x**5/5 + zoo*x
+Integral(-sin(x*(x + 2)) + 1, x)
+x**3/3
+x**2/(2*csc(exp(9)))
+x**2/2 + x*sec(1)
+x**2/2 - log(cos(x))
+(9*x - sin(x))/pi
+Integral(csc(x)**(sin(2)**x), x)
+x**2/2 - x*csc(5)
+pi*x + log(cos(x) - 1)/2 - log(cos(x) + 1)/2
+Integral(x*sec(x), x)
+Integral(sin(csc(x)), x)
+Integral(tan(sec(x)), x)
+-3*x**2 + exp(x + 2)
+Integral(sin(x)**x, x)
+x*(-pi + exp(2))
+0
+log(x)*cos(-cos(8) + 1)
+343*log(x)
+x*sin(csc(10)/x) - log(x**(-2))*csc(10)/2 + log(1/x)*csc(10) - Ci(-csc(10)/x)*csc(10)
+log(x)*csc(9)
+-x + log(cos(x) - 1)/2 - log(cos(x) + 1)/2
+x**2/2 - x*exp(9)/7
+x*exp(70)
+x*(-5 + exp(4))
+4*x*tan(x/4)/sec(x/4) + 16/sec(x/4)
+Integral(-x**x - 7, x)
+Integral(tan(x*exp(x + 5)), x)
+x*exp(cot(3))
+x**2/2 + x*cot(9)
+x*sin(E)
+x*(-csc(8)**7 + 1) + cot(9)**x/(log(-cot(9)) + I*pi)
+-10*log(cos(x*cos(6)/(10*sin(6))))*sin(6)/cos(6)
+Integral(5**(9**x)/(3*x + 1), x)/2
+Integral(2**(cot(8**sin(x/pi))**4), x)
+5**exp(16)*x
+x*cot(cot(9*exp(-5)))
+x**6/6 + 7*x
+x*exp(8/x) - 8*Ei(8/x)
+-x**2/2 + 5*x
+-log(cot(x - exp(exp(9))) + csc(x - exp(exp(9))))
+-x*cot(5)
+cos(9*x - 54)/9
+Integral(cot(cot(x)), x)
+-log(cos(x))/pi
+x*sin(-sec(6) + exp(sin(2)))
+Integral(exp(cot(x)), x)
+-x**2/16 + sin(x)/8
+4*x**2 + 3*x
+x*sec(exp(pi)/sec(exp(4)))
+Integral(5**sin(x)*x, x)
+9*x**2/2 - x*cos(x) + sin(x)
+Integral(cot(x**10), x)
+x**2/2 + x*(-tan(E) + 6)
+8*x - 6*log(sin(x))/sin(9)
+6*x - log(sin(x) - 1)/2 + log(sin(x) + 1)/2
+3*x**2 - 3*x
+4*pi*Integral(x**(-x), x)
+x*exp(csc(7))
+-cos(x)/2
+x**2/2 + 7*x
+9*x - 65536/(7*x**7)
+pi*(log(cos(x) - 1)/2 - log(cos(x) + 1)/2)
+0
+x**2/1458
+x**2/2
+x*(E + 9)
+sin(x)/sec(9)
+x**9/(9*cos(5))
+x*exp(pi + 10)
+zoo*(log(cos(x) - 1)/2 - log(cos(x) + 1)/2)
+-3*x**2 + x*(-6*csc(tan(5)) + 6)
+Integral(sec(x)/tan(cot(x)), x)
+10*x/pi
+8192*(4**x)**exp(6)*exp(-6)/log(2)
+9*x + x**(1 + 8**cos(7))/(1 + 8**cos(7))
+nan
+x**2/4
+Integral(x + cot(tan(csc(x))) - 5, x)
+x**2 + x*cot(3)
+x**3/9
+x*(-6 + tan(1))
+x**2/2 + x*(6 - tan(8))
+zoo*log(x)
+8*x + log(sin(x) - 1)/6 - log(sin(x) + 1)/6
+8*x - log(cos(x))/6
+Integral(sin(cos(x*exp(-csc(x)))), x)
+2*x
+Integral(exp(exp(x)), x)
+x**2/2 - log(cos(x))
+x*cot(exp(-5))
+x*sin(exp(7))
+Integral(1/cos(x*tan(x)), x)
+0
+x**2/2 + x*tan(6)
+3*x**2/8
+nan
+Integral(6**x*exp(-cos(x)), x)
+Integral(cos(sin(cos(x))) + 9, x)
+7*x**2/(2*tan(5*exp(-3)))
+4**x/(2*log(2)) + x
+Integral(9*3**csc(x) - x, x)
+x**2/2 - 2*x
+x*(-tan(9) + 3)
+E*x**2/2
+-x**2/2 + log(cos(x) - 1)/2 - log(cos(x) + 1)/2
+x**2/2 + 72*x
+x**2*cot(exp(4))/2
+x**2/2 + x*sin(56)
+5*x**2/2 + x*(-50 - 5*3**sin(7))
+Integral(-(x - exp(8))**x + 1, x)
+5*x**2/2 + x*csc(6)
+x**2/2 + zoo*x
+5*Integral(tan(sin(sin(x))), x)
+x - log(cos(4*x))/4
+x**2/2 + x*cot(-cot(cos(9)) + 1)
+sin(x)
+2*log(x)
+pi*x**2/2 + log(cos(x) - 1)/2 - log(cos(x) + 1)/2
+4**exp(8)*x**2/2 + 7*x
+(-cot(tan(8)) + 6)*sin(x)
+zoo*x
+x*cos(exp(2))
+Integral(exp(csc(x)), x)
+x**4/4 - 5*x
+x**2/(2*sec(9))
+-2*x + 10*log(sin(x))
+-x**2 + (5*x - 36)/(20*x**5)
+4*x
+6*log(x)/5
+-x**2/2 + 41*x
+x*exp(10)
+x*sin(csc(cot(1))/x) - log(x**(-2))*csc(cot(1))/2 + log(1/x)*csc(cot(1)) - Ci(csc(cot(1))/x)*csc(cot(1))
+Integral(cot(10**x - 12), x)
+Integral(cos(cos(cos(x))), x)
+x/2
+log(tan(x - 9)**2 + 1)/2
+6*Integral(cos(exp(x)), x)
+-x**2/2 + x*csc(6)
+9*x**2/14
+sin(4*x)/4
+zoo*log(cos(x))
+x**2/2
+7*x/2
+Integral(sin(sin(2)**cot(cos(x))), x)
+Integral(cot(3**(4**x)), x)
+Integral(cos(sec(x)), x)
+x*exp(-exp(10) + 4)
+Integral(tan(9**x + x), x)
+x**2/2 + 3125*x
+x**2/2 - x*tan(5)
+x**2/2 - sin(x)
+5*9**x/(2*log(3))
+Integral(tan(tan(3*x/5)), x)
+x*(-8 + exp(csc(8))/16384)
+-x**2/2 + 7*x
+x**2/2 + x*(pi + 4)
+x**2/16 + x*sin(5)/8
+x**2/18 + x*exp(3)/9
+log(x)*sin(6)
+-log(sin(x) - 1) + log(sin(x) + 1)
+x*cot(csc(exp(sin(5))))
+pi*Integral(1/(exp(8*pi**x) + 2), x)
+Integral(x**x, x)
+(log(cos(x*cos(9)) - 1)/2 - log(cos(x*cos(9)) + 1)/2)/cos(9)
+-Integral(tan(csc(x - sec(x))), x)
+Integral(exp(tan(6)**x), x)
+log(x)*csc(sec(exp(5)))
+x**2/2 + x*(sin(5) + pi/4)
+x*sin(sin(10))/tan(1)
+Integral(cos(sec(x)), x)
+E*x**2/(2*sin(5))
+Integral(cos(exp(sin(tan(x)))), x)
+3**x/log(3) - 4*x
+Integral(exp(6*x)*exp(x**2), x)
+Integral(x**exp(10*x), x)
+x*(-exp(8) + 3)
+x**2*(1/2 + pi/2)
+x**2*tan(8)/2
+7*7**exp(5)*x
+5*log(cos(2*x) - 1)/2 - 5*log(cos(2*x) + 1)/2
+-x**16/16 + 7*x**15*sin(9)/15 - 3*x**14*sin(9)**2/2 + 35*x**13*sin(9)**3/13 - 35*x**12*sin(9)**4/12 + 21*x**11*sin(9)**5/11 - 7*x**10*sin(9)**6/10 + x**9*sin(9)**7/9
+-9*x + x**(sin(7) + 1)/(sin(7) + 1)
+sin(3*x - 3*cos(1))/3
+SOLUTIONS LATEX
+x \cot{\left (5 \right )} + \frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}
+\int \tan{\left (\frac{1}{x} \right )}\, dx
+x e^{\sec{\left (6 \right )}}
+\frac{x^{2}}{2} - x \cot{\left (1 \right )}
+\int e^{\frac{\csc{\left (x \right )}}{72}}\, dx
+\frac{x^{2}}{2} - x
+\int 8^{- \sin{\left (e^{x} \right )}} x\, dx
+- \frac{9 x^{2}}{2 \sin{\left (2 \right )}}
+x \cot{\left (\sec{\left (e \right )} \right )}
+\frac{x^{2}}{2 \cot{\left (9 \right )}}
+7 \log{\left (\pi x + 8 \right )}
+- \frac{x^{2}}{2} + 3 x
+\frac{x^{3}}{3} + \frac{x^{2} \sin{\left (6 \right )}}{2}
+\frac{x}{e^{- \cot{\left (5 \right )}}}
+\int x \csc{\left (x \right )}\, dx
+\frac{\cot^{x}{\left (\csc{\left (1 \right )} \right )}}{\log{\left (\cot{\left (\csc{\left (1 \right )} \right )} \right )}}
+\frac{x^{2}}{2} + x
+\frac{x^{2}}{2}
+\left(-4 + \cos{\left (9 \right )}\right) \log{\left (x \right )}
+7 x
+0
+\int \cos{\left (\pi \csc{\left (x \right )} \right )}\, dx
+\frac{x}{e^{- \tan{\left (9 \right )}}}
+- \frac{5 \log{\left (\sin{\left (x \right )} - 1 \right )}}{2} + \frac{5 \log{\left (\sin{\left (x \right )} + 1 \right )}}{2}
+x \tan{\left (e^{5} \right )}
+x \tan{\left (\sin{\left (1 \right )} \right )}
+x \cos{\left (\cos{\left (2 \right )} + e^{\sec{\left (9 \right )}} \right )}
+\frac{\left(e^{x}\right)^{\pi}}{\pi}
+x e^{\frac{1}{x}} - \operatorname{Ei}{\left (\frac{1}{x} \right )}
+- \log{\left (\cot{\left (x - 1 \right )} + \csc{\left (x - 1 \right )} \right )}
+3 \int e^{- 2 e^{\sin{\left (x \right )}}}\, dx
+x^{2} + \pi x
+\frac{x^{2}}{2}
+\int \cos{\left (e^{x} \right )}\, dx
+\int x \cot{\left (e^{x} \right )}\, dx
+x e^{- \sin{\left (6 \right )} + 8}
+\csc{\left (3 \right )} \int \tan{\left (x^{3} \right )}\, dx
+x^{2} \left(0.5 \sec{\left (\cot{\left (3 \right )} \right )} + 3.0\right)
+\frac{x^{2}}{2} + \cos{\left (x \right )}
+2 x e^{8}
+1.64872127070013 x
+\int \left(x + \tan{\left (9^{x} \right )}\right)\, dx
+\int \sin{\left (\cos{\left (\cos{\left (x \right )} \right )} \right )}\, dx
+\frac{4 x^{3}}{3} + 8 x
+4 x - \sin{\left (x + 1 \right )}
+\frac{x^{2}}{2} + x \left(- \pi + 10\right)
+- \frac{\log{\left (\cos{\left (\pi x \right )} \right )}}{\pi}
+x \left(-1 + e\right)
+0.5 x^{2}
+x \sin{\left (e^{8} \right )}
+- e^{- \frac{\sin{\left (5 \right )}}{\cos{\left (5 \right )}}} \cos{\left (\frac{x}{e^{- \frac{\sin{\left (5 \right )}}{\cos{\left (5 \right )}}}} \right )}
+\frac{387420489 x^{2}}{2}
+- 1.04283521277141 \log{\left (1.0 x - 3.0 \right )}
+\frac{x^{9}}{9}
+\int 0^{\sec{\left (\cos{\left (x \right )} \right )}}\, dx
+\frac{x^{2}}{2} + x \sin{\left (5 \right )}
+\frac{\pi x^{3}}{3} + \frac{5 \pi x^{2}}{2}
+- \frac{x^{2}}{2} + x
+\frac{x^{\cos{\left (6 \right )} + 1}}{\cos{\left (6 \right )} + 1}
+\int e^{\sin{\left (x \right )}}\, dx
+x \left(-2.04272707026614 + \tan{\left (e^{8} \right )}\right)
+\frac{70 x \tan{\left (x \right )}}{\sec{\left (x \right )}} + \frac{70}{\sec{\left (x \right )}}
+- \frac{7 x^{4}}{4} + 21 x^{3}
+- \frac{\log{\left (\tan^{2}{\left (x - \cot{\left (1 \right )} \right )} + 1 \right )}}{2} - \log{\left (\cos{\left (x \right )} \right )}
+\frac{x^{2}}{2} + 14 x
+4 x + \log{\left (\cos{\left (x \right )} \right )}
+\frac{7 x^{2}}{2} + 42 x + 7 \sin{\left (x \right )}
+\frac{x^{2}}{2} + x \left(\pi - \cot{\left (6 \right )} + 9\right)
+- \int \sin{\left (e^{6 x} - 4 \right )}\, dx
+- \frac{x^{2}}{2} + x \cot^{4782969}{\left (\cot{\left (e^{6} \right )} \right )}
+\frac{\cot^{x}{\left (e^{6} \right )}}{\log{\left (\cot{\left (e^{6} \right )} \right )}}
+\log{\left (\cot{\left (x - 10 \right )} + \csc{\left (x - 10 \right )} \right )}
+\int \left(x + \cos^{x}{\left (x \right )}\right)\, dx
+- \frac{\log{\left (\sin{\left (10 x \right )} - 1 \right )}}{20} + \frac{\log{\left (\sin{\left (10 x \right )} + 1 \right )}}{20}
+- \frac{x^{2}}{2} + \sin{\left (x \right )}
+\int \left(x + \cos{\left (\cot{\left (\csc{\left (\sin{\left (x \right )} \right )} \right )} \right )}\right)\, dx
+\int \frac{\sec{\left (x^{2} \right )}}{x}\, dx
+x \left(25 + e^{6}\right)
+\frac{x^{5}}{5} + \tilde{\infty} x
+\int \left(- \sin{\left (x \left(x + 2\right) \right )} + 1\right)\, dx
+\frac{x^{3}}{3}
+\frac{x^{2}}{2 \csc{\left (e^{9} \right )}}
+\frac{x^{2}}{2} + x \sec{\left (1 \right )}
+\frac{x^{2}}{2} - \log{\left (\cos{\left (x \right )} \right )}
+\frac{9 x - \sin{\left (x \right )}}{\pi}
+\int \csc^{\sin^{x}{\left (2 \right )}}{\left (x \right )}\, dx
+\frac{x^{2}}{2} - x \csc{\left (5 \right )}
+\pi x + \frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}
+\int x \sec{\left (x \right )}\, dx
+\int \sin{\left (\csc{\left (x \right )} \right )}\, dx
+\int \tan{\left (\sec{\left (x \right )} \right )}\, dx
+- 3 x^{2} + e^{x + 2}
+\int \sin^{x}{\left (x \right )}\, dx
+x \left(- \pi + e^{2}\right)
+0
+\log{\left (x \right )} \cos{\left (- \cos{\left (8 \right )} + 1 \right )}
+343 \log{\left (x \right )}
+x \sin{\left (\frac{\csc{\left (10 \right )}}{x} \right )} - \frac{\log{\left (\frac{1}{x^{2}} \right )} \csc{\left (10 \right )}}{2} + \log{\left (\frac{1}{x} \right )} \csc{\left (10 \right )} - \operatorname{Ci}{\left (- \frac{\csc{\left (10 \right )}}{x} \right )} \csc{\left (10 \right )}
+\log{\left (x \right )} \csc{\left (9 \right )}
+- x + \frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}
+\frac{x^{2}}{2} - \frac{x e^{9}}{7}
+x e^{70}
+x \left(-5 + e^{4}\right)
+\frac{4 x \tan{\left (\frac{x}{4} \right )}}{\sec{\left (\frac{x}{4} \right )}} + \frac{16}{\sec{\left (\frac{x}{4} \right )}}
+\int \left(- x^{x} - 7\right)\, dx
+\int \tan{\left (x e^{x + 5} \right )}\, dx
+\frac{x}{e^{- \cot{\left (3 \right )}}}
+\frac{x^{2}}{2} + x \cot{\left (9 \right )}
+x \sin{\left (e \right )}
+x \left(- \csc^{7}{\left (8 \right )} + 1\right) + \frac{\cot^{x}{\left (9 \right )}}{\log{\left (- \cot{\left (9 \right )} \right )} + i \pi}
+- \frac{10 \log{\left (\cos{\left (\frac{x \cos{\left (6 \right )}}{10 \sin{\left (6 \right )}} \right )} \right )} \sin{\left (6 \right )}}{\cos{\left (6 \right )}}
+\frac{\int \frac{5^{9^{x}}}{3 x + 1}\, dx}{2}
+\int 2^{\cot^{4}{\left (8^{\sin{\left (\frac{x}{\pi} \right )}} \right )}}\, dx
+5^{e^{16}} x
+x \cot{\left (\cot{\left (\frac{9}{e^{5}} \right )} \right )}
+\frac{x^{6}}{6} + 7 x
+x e^{\frac{8}{x}} - 8 \operatorname{Ei}{\left (\frac{8}{x} \right )}
+- \frac{x^{2}}{2} + 5 x
+- \log{\left (\cot{\left (x - e^{e^{9}} \right )} + \csc{\left (x - e^{e^{9}} \right )} \right )}
+- x \cot{\left (5 \right )}
+\frac{\cos{\left (9 x - 54 \right )}}{9}
+\int \cot{\left (\cot{\left (x \right )} \right )}\, dx
+- \frac{\log{\left (\cos{\left (x \right )} \right )}}{\pi}
+x \sin{\left (- \sec{\left (6 \right )} + e^{\sin{\left (2 \right )}} \right )}
+\int e^{\cot{\left (x \right )}}\, dx
+- \frac{x^{2}}{16} + \frac{\sin{\left (x \right )}}{8}
+4 x^{2} + 3 x
+x \sec{\left (\frac{e^{\pi}}{\sec{\left (e^{4} \right )}} \right )}
+\int 5^{\sin{\left (x \right )}} x\, dx
+\frac{9 x^{2}}{2} - x \cos{\left (x \right )} + \sin{\left (x \right )}
+\int \cot{\left (x^{10} \right )}\, dx
+\frac{x^{2}}{2} + x \left(- \tan{\left (e \right )} + 6\right)
+8 x - \frac{6 \log{\left (\sin{\left (x \right )} \right )}}{\sin{\left (9 \right )}}
+6 x - \frac{\log{\left (\sin{\left (x \right )} - 1 \right )}}{2} + \frac{\log{\left (\sin{\left (x \right )} + 1 \right )}}{2}
+3 x^{2} - 3 x
+4 \pi \int x^{- x}\, dx
+x e^{\csc{\left (7 \right )}}
+- \frac{\cos{\left (x \right )}}{2}
+\frac{x^{2}}{2} + 7 x
+9 x - \frac{65536}{7 x^{7}}
+\pi \left(\frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}\right)
+0
+\frac{x^{2}}{1458}
+\frac{x^{2}}{2}
+x \left(e + 9\right)
+\frac{\sin{\left (x \right )}}{\sec{\left (9 \right )}}
+\frac{x^{9}}{9 \cos{\left (5 \right )}}
+x e^{\pi + 10}
+\tilde{\infty} \left(\frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}\right)
+- 3 x^{2} + x \left(- 6 \csc{\left (\tan{\left (5 \right )} \right )} + 6\right)
+\int \frac{\sec{\left (x \right )}}{\tan{\left (\cot{\left (x \right )} \right )}}\, dx
+\frac{10 x}{\pi}
+\frac{8192 \left(4^{x}\right)^{e^{6}}}{e^{6} \log{\left (2 \right )}}
+9 x + \frac{x^{1 + 8^{\cos{\left (7 \right )}}}}{1 + 8^{\cos{\left (7 \right )}}}
+\mathrm{NaN}
+\frac{x^{2}}{4}
+\int \left(x + \cot{\left (\tan{\left (\csc{\left (x \right )} \right )} \right )} - 5\right)\, dx
+x^{2} + x \cot{\left (3 \right )}
+\frac{x^{3}}{9}
+x \left(-6 + \tan{\left (1 \right )}\right)
+\frac{x^{2}}{2} + x \left(6 - \tan{\left (8 \right )}\right)
+\tilde{\infty} \log{\left (x \right )}
+8 x + \frac{\log{\left (\sin{\left (x \right )} - 1 \right )}}{6} - \frac{\log{\left (\sin{\left (x \right )} + 1 \right )}}{6}
+8 x - \frac{\log{\left (\cos{\left (x \right )} \right )}}{6}
+\int \sin{\left (\cos{\left (x e^{- \csc{\left (x \right )}} \right )} \right )}\, dx
+2 x
+\int e^{e^{x}}\, dx
+\frac{x^{2}}{2} - \log{\left (\cos{\left (x \right )} \right )}
+x \cot{\left (e^{-5} \right )}
+x \sin{\left (e^{7} \right )}
+\int \frac{1}{\cos{\left (x \tan{\left (x \right )} \right )}}\, dx
+0
+\frac{x^{2}}{2} + x \tan{\left (6 \right )}
+\frac{3 x^{2}}{8}
+\mathrm{NaN}
+\int 6^{x} e^{- \cos{\left (x \right )}}\, dx
+\int \left(\cos{\left (\sin{\left (\cos{\left (x \right )} \right )} \right )} + 9\right)\, dx
+\frac{7 x^{2}}{2 \tan{\left (\frac{5}{e^{3}} \right )}}
+\frac{4^{x}}{2 \log{\left (2 \right )}} + x
+\int \left(9 \cdot 3^{\csc{\left (x \right )}} - x\right)\, dx
+\frac{x^{2}}{2} - 2 x
+x \left(- \tan{\left (9 \right )} + 3\right)
+\frac{e x^{2}}{2}
+- \frac{x^{2}}{2} + \frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}
+\frac{x^{2}}{2} + 72 x
+\frac{x^{2} \cot{\left (e^{4} \right )}}{2}
+\frac{x^{2}}{2} + x \sin{\left (56 \right )}
+\frac{5 x^{2}}{2} + x \left(-50 - 5 \cdot 3^{\sin{\left (7 \right )}}\right)
+\int \left(- \left(x - e^{8}\right)^{x} + 1\right)\, dx
+\frac{5 x^{2}}{2} + x \csc{\left (6 \right )}
+\frac{x^{2}}{2} + \tilde{\infty} x
+5 \int \tan{\left (\sin{\left (\sin{\left (x \right )} \right )} \right )}\, dx
+x - \frac{\log{\left (\cos{\left (4 x \right )} \right )}}{4}
+\frac{x^{2}}{2} + x \cot{\left (- \cot{\left (\cos{\left (9 \right )} \right )} + 1 \right )}
+\sin{\left (x \right )}
+2 \log{\left (x \right )}
+\frac{\pi x^{2}}{2} + \frac{\log{\left (\cos{\left (x \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \right )} + 1 \right )}}{2}
+\frac{4^{e^{8}} x^{2}}{2} + 7 x
+\left(- \cot{\left (\tan{\left (8 \right )} \right )} + 6\right) \sin{\left (x \right )}
+\tilde{\infty} x
+x \cos{\left (e^{2} \right )}
+\int e^{\csc{\left (x \right )}}\, dx
+\frac{x^{4}}{4} - 5 x
+\frac{x^{2}}{2 \sec{\left (9 \right )}}
+- 2 x + 10 \log{\left (\sin{\left (x \right )} \right )}
+- x^{2} + \frac{5 x - 36}{20 x^{5}}
+4 x
+\frac{6 \log{\left (x \right )}}{5}
+- \frac{x^{2}}{2} + 41 x
+x e^{10}
+x \sin{\left (\frac{\csc{\left (\cot{\left (1 \right )} \right )}}{x} \right )} - \frac{\log{\left (\frac{1}{x^{2}} \right )} \csc{\left (\cot{\left (1 \right )} \right )}}{2} + \log{\left (\frac{1}{x} \right )} \csc{\left (\cot{\left (1 \right )} \right )} - \operatorname{Ci}{\left (\frac{\csc{\left (\cot{\left (1 \right )} \right )}}{x} \right )} \csc{\left (\cot{\left (1 \right )} \right )}
+\int \cot{\left (10^{x} - 12 \right )}\, dx
+\int \cos{\left (\cos{\left (\cos{\left (x \right )} \right )} \right )}\, dx
+\frac{x}{2}
+\frac{\log{\left (\tan^{2}{\left (x - 9 \right )} + 1 \right )}}{2}
+6 \int \cos{\left (e^{x} \right )}\, dx
+- \frac{x^{2}}{2} + x \csc{\left (6 \right )}
+\frac{9 x^{2}}{14}
+\frac{\sin{\left (4 x \right )}}{4}
+\tilde{\infty} \log{\left (\cos{\left (x \right )} \right )}
+\frac{x^{2}}{2}
+\frac{7 x}{2}
+\int \sin{\left (\sin^{\cot{\left (\cos{\left (x \right )} \right )}}{\left (2 \right )} \right )}\, dx
+\int \cot{\left (3^{4^{x}} \right )}\, dx
+\int \cos{\left (\sec{\left (x \right )} \right )}\, dx
+\frac{x}{e^{-4 + e^{10}}}
+\int \tan{\left (9^{x} + x \right )}\, dx
+\frac{x^{2}}{2} + 3125 x
+\frac{x^{2}}{2} - x \tan{\left (5 \right )}
+\frac{x^{2}}{2} - \sin{\left (x \right )}
+\frac{5 \cdot 9^{x}}{2 \log{\left (3 \right )}}
+\int \tan{\left (\tan{\left (\frac{3 x}{5} \right )} \right )}\, dx
+x \left(-8 + \frac{e^{\csc{\left (8 \right )}}}{16384}\right)
+- \frac{x^{2}}{2} + 7 x
+\frac{x^{2}}{2} + x \left(\pi + 4\right)
+\frac{x^{2}}{16} + \frac{x \sin{\left (5 \right )}}{8}
+\frac{x^{2}}{18} + \frac{x e^{3}}{9}
+\log{\left (x \right )} \sin{\left (6 \right )}
+- \log{\left (\sin{\left (x \right )} - 1 \right )} + \log{\left (\sin{\left (x \right )} + 1 \right )}
+x \cot{\left (\csc{\left (e^{\sin{\left (5 \right )}} \right )} \right )}
+\pi \int \frac{1}{e^{8 \pi^{x}} + 2}\, dx
+\int x^{x}\, dx
+\frac{\frac{\log{\left (\cos{\left (x \cos{\left (9 \right )} \right )} - 1 \right )}}{2} - \frac{\log{\left (\cos{\left (x \cos{\left (9 \right )} \right )} + 1 \right )}}{2}}{\cos{\left (9 \right )}}
+- \int \tan{\left (\csc{\left (x - \sec{\left (x \right )} \right )} \right )}\, dx
+\int e^{\tan^{x}{\left (6 \right )}}\, dx
+\log{\left (x \right )} \csc{\left (\sec{\left (e^{5} \right )} \right )}
+\frac{x^{2}}{2} + x \left(\sin{\left (5 \right )} + \frac{\pi}{4}\right)
+\frac{x \sin{\left (\sin{\left (10 \right )} \right )}}{\tan{\left (1 \right )}}
+\int \cos{\left (\sec{\left (x \right )} \right )}\, dx
+\frac{e x^{2}}{2 \sin{\left (5 \right )}}
+\int \cos{\left (e^{\sin{\left (\tan{\left (x \right )} \right )}} \right )}\, dx
+\frac{3^{x}}{\log{\left (3 \right )}} - 4 x
+\int e^{6 x} e^{x^{2}}\, dx
+\int x^{e^{10 x}}\, dx
+x \left(- e^{8} + 3\right)
+x^{2} \left(0.5 + \frac{\pi}{2}\right)
+\frac{x^{2} \tan{\left (8 \right )}}{2}
+7 \cdot 7^{e^{5}} x
+\frac{5 \log{\left (\cos{\left (2 x \right )} - 1 \right )}}{2} - \frac{5 \log{\left (\cos{\left (2 x \right )} + 1 \right )}}{2}
+- \frac{x^{16}}{16} + \frac{7 x^{15} \sin{\left (9 \right )}}{15} - \frac{3 x^{14} \sin^{2}{\left (9 \right )}}{2} + \frac{35 x^{13} \sin^{3}{\left (9 \right )}}{13} - \frac{35 x^{12} \sin^{4}{\left (9 \right )}}{12} + \frac{21 x^{11} \sin^{5}{\left (9 \right )}}{11} - \frac{7 x^{10} \sin^{6}{\left (9 \right )}}{10} + \frac{x^{9} \sin^{7}{\left (9 \right )}}{9}
+- 9 x + \frac{x^{\sin{\left (7 \right )} + 1}}{\sin{\left (7 \right )} + 1}
+\frac{\sin{\left (3 x - 3 \cos{\left (1 \right )} \right )}}{3}
