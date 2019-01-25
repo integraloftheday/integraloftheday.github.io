@@ -1,5 +1,5 @@
 var x = 0;
-
+var days = 17916;
 function fun1(xval) {
 	x = xval;
 	//return sin(xval);
@@ -119,15 +119,29 @@ function arctan(x) {
 	return Math.atan(x);
 }
 //cos, sin, tan, sec, csc, cot, arcsin, arccos, arctan
+
+function add(){
+    days=days+1;
+    load();
+}
+function subtract(){
+    days=days-1;
+    load();
+}
 var equation;
 var Fullintegral;
 var integral;
 var Lintegral;
 var Lequation;
+
+function load(){
+    const context = canvas.getContext('2d');
+
+    context.clearRect(0, 0, canvas.width, canvas.height);
 var integralJson = $.getJSON({
 	url: "https://spreadsheets.google.com/feeds/list/1J9s2YhV63nTZ-8hnPqnAjYukzjZSj6z3WJkR_1CVzZg/od6/public/values?alt=json",
 	success: function(data) {
-		var daysSinceBeginning = 17916;
+		var daysSinceBeginning = days;
 		var date = new Date();
 		var daysSinceEpoch = Math.floor(date / 8.64e7);
 		var daysSinceBeginning = daysSinceEpoch - daysSinceBeginning;
@@ -141,7 +155,8 @@ var integralJson = $.getJSON({
 		Fullintegral="$$\\\int{"+Lequation+"dx="+Lintegral+"}+c$$";
 		if(daysSinceBeginning==17900){
 			Fullintegral="$$\\\int{"+Lequation+"dx="+Lintegral+"}$$";
-		}
+        }
+        document.getElementById("daysSinceBeginning").innerHTML = daysSinceBeginning+2;
 		document.getElementById("Fullintegral").innerHTML = Fullintegral;
 		MathJax.Hub.Config({messageStyle: "none", showMathMenu: false});
 		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]);
@@ -150,3 +165,4 @@ var integralJson = $.getJSON({
 		draw();
 	}
 });
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="icon" href="./Symbol.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="./Symbol.png" type="image/x-icon" />
+  <link rel="stylesheet" href="./style.css">
+  <title>Integral of the Day</title>
+  <script src="./jquery.js"></script>
+  <script src="./test.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+<style>
+.mjx-chtml[tabindex]:focus, body :focus .mjx-chtml[tabindex] {
+display: inline-table;
+outline: none!important;
+}
+</style>
+</head>
+
+<body onload="load()">
+
+  <section class="page-header">
+<h1 class="project-name"  id="Fullintegral"></h1>
+
+<h2 class="project-tagline">Is the Integral of day:</h2>
+<h2 class="project-tagline" id="daysSinceBeginning"></h2>
+
+<a href="https://dfsek.github.io/">Thanks dfsek</a>
+</section>
+<section class="main-content" id="content">
+<center><canvas id="canvas" width="750" height="250"></canvas></center>
+<center>
+<button onclick="add()">Back</button>
+<button onclick="subtract()">Forward</button>
+</center>
+<center>
+<p>For Testing Purposes</p>
+<a href="https://docs.google.com/spreadsheets/d/1QkeHYBl851kQ4cmfAYfArMDy3C12lHE2lZte0tqiHfA/edit?usp=sharing">Spreadsheet</a>
+</center>
+<script>
+document.getElementById("canvas").setAttribute("width", window.innerWidth - 175);
+</script>
+</section>
+
+
+</body>
+
+
+</html>
