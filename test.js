@@ -155,6 +155,15 @@ function binarytobool(a){
 		return(false);
 	}
 }
+
+function logintogoogle(google){
+	if(google==false){
+	var myWindow = window.open("./login.html", "Login", "width=500,height=500")
+	}
+	else{
+		myWindow = window.open("https://script.google.com/macros/s/AKfycbwOAqH-_qo7xEip_XuRwyegBz-VykU5GxcdgbgaMB9auzHdPrI/exec", "Login", "width=500,height=500")
+	}
+}
 var equation;
 var Fullintegral;
 var integral;
@@ -186,7 +195,7 @@ var integralJson = $.getJSON({
 			Fullintegral="$$\\\int{"+Lequation+"dx="+Lintegral+"}$$";
 		}
 		sheetrow=daysSinceBeginning+2;
-		document.getElementById("sheetrow").innerHTML = sheetrow;
+		document.getElementById("sheetrow").innerHTML = "Is the Integral of day: "+sheetrow;
 		document.getElementById("displayed").innerHTML= "Displayed: " +displayed; 
 		document.getElementById("Fullintegral").innerHTML = Fullintegral;
 		MathJax.Hub.Config({messageStyle: "none", showMathMenu: false});
