@@ -118,6 +118,15 @@ function arccos(x) {
 function arctan(x) {
 	return Math.atan(x);
 }
+
+function binarytobool(a){
+	if(a==1){
+		return(true);
+	}
+	else{
+		return(false);
+	}
+}
 //cos, sin, tan, sec, csc, cot, arcsin, arccos, arctan
 var equation;
 var Fullintegral;
@@ -132,6 +141,10 @@ var integralJson = $.getJSON({
 		var daysSinceEpoch = Math.floor(date / 8.64e7);
 		var daysSinceBeginning = daysSinceEpoch - daysSinceBeginning;
 		console.log("Day " + daysSinceBeginning);
+		while(true!=binarytobool(parseInt(data.feed.entry[daysSinceBeginning].gsx$display.$t))){
+			daysSinceBeginning++; 
+		}
+		console.log(daysSinceBeginning);
 		equation = data.feed.entry[daysSinceBeginning].gsx$equation.$t;
 		integral = data.feed.entry[daysSinceBeginning].gsx$integral.$t;
 		Lequation = data.feed.entry[daysSinceBeginning].gsx$lequation.$t;

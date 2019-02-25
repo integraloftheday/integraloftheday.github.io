@@ -1,7 +1,5 @@
 var x = 0;
 var days = 17916;
-var id='1C6UCssrbFc0Ak9vfToVQTaKbwGi38r3fQzGhks3Pt_4';
-var sheetrow=0;
 function fun1(xval) {
 	x = xval;
 	//return sin(xval);
@@ -124,45 +122,19 @@ function arctan(x) {
 
 function add(){
     days=days+1;
-    loadf();
+    load();
 }
 function subtract(){
     days=days-1;
-    loadf();
-}
-
-function append(sId,location,data){
-	var url = "https://script.google.com/macros/s/AKfycbwOAqH-_qo7xEip_XuRwyegBz-VykU5GxcdgbgaMB9auzHdPrI/exec?theArg=['"+sId+"','"+location+"','"+data+"']";
-	console.log(url);
-	var wnd = window.open(url);
-    wnd.close();
-}
-function display(){
-	append('1J9s2YhV63nTZ-8hnPqnAjYukzjZSj6z3WJkR_1CVzZg','f'+(sheetrow).toString(),'1');
-	//loadf();
-}
-
-function dontdisplay(){
-	append('1J9s2YhV63nTZ-8hnPqnAjYukzjZSj6z3WJkR_1CVzZg','f'+(sheetrow).toString(),'0');
-	//loadf();
-}
-
-function binarytobool(a){
-	if(a==1){
-		return(true);
-	}
-	else{
-		return(false);
-	}
+    load();
 }
 var equation;
 var Fullintegral;
 var integral;
 var Lintegral;
 var Lequation;
-var displayed; 
 
-function loadf(){
+function load(){
     const context = canvas.getContext('2d');
 
     context.clearRect(0, 0, canvas.width, canvas.height);
@@ -178,16 +150,13 @@ var integralJson = $.getJSON({
 		integral = data.feed.entry[daysSinceBeginning].gsx$integral.$t;
 		Lequation = data.feed.entry[daysSinceBeginning].gsx$lequation.$t;
 		Lintegral = data.feed.entry[daysSinceBeginning].gsx$lintegral.$t;
-		displayed = binarytobool(parseInt(data.feed.entry[daysSinceBeginning].gsx$display.$t));
 		console.log(Fullintegral);
 		console.log(Lequation);
 		Fullintegral="$$\\\int{"+Lequation+"dx="+Lintegral+"}+c$$";
 		if(daysSinceBeginning==17900){
 			Fullintegral="$$\\\int{"+Lequation+"dx="+Lintegral+"}$$";
-		}
-		sheetrow=daysSinceBeginning+2;
-		document.getElementById("sheetrow").innerHTML = sheetrow;
-		document.getElementById("displayed").innerHTML= "Displayed: " +displayed; 
+        }
+        document.getElementById("daysSinceBeginning").innerHTML = daysSinceBeginning+2;
 		document.getElementById("Fullintegral").innerHTML = Fullintegral;
 		MathJax.Hub.Config({messageStyle: "none", showMathMenu: false});
 		MathJax.Hub.Queue(["Typeset",MathJax.Hub,Lequation]);

@@ -9,6 +9,9 @@
   font-family: "prime";
   src: url(./font/Prime-Regular.otf) format("opentype");
 }
+#myHiddenPage { 
+  display: none;
+}
 a:link {
   color:white;
   background-color: transparent;
