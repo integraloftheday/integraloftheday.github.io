@@ -2,37 +2,55 @@
 <html>
 
 <head>
-  <link rel="icon" href="./Symbol.png" type="image/x-icon" />
-  <link rel="shortcut icon" href="./Symbol.png" type="image/x-icon" />
-  <link rel="stylesheet" href="./style.css">
-  <title>Integral of the Day</title>
-  <script src="./jquery.js"></script>
-  <script src="./chat.js"></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-<style>
-.mjx-chtml[tabindex]:focus, body :focus .mjx-chtml[tabindex] {
-display: inline-table;
-outline: none!important;
-}
-</style>
+<meta charset="utf-8"/>
+<link rel="icon" href="./sources/Symbol.png" type="image/x-icon" />
+<link rel="shortcut icon" href="./sources/Symbol.png" type="image/x-icon" />
+<script src="https://unpkg.com/mathjs@6.2.5/dist/math.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML.js"></script>
+<script type="text/x-mathjax-config">
+
+  MathJax.Hub.Config({
+  tex2jax: { inlineMath: [["$","$"],["\\(","\\)"]] },
+  "HTML-CSS": {
+    linebreaks: { automatic: true, width: "container" }          
+  }              
+  });
+  
+  </script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="./sources/math.min.js"></script>
+<script src="index.js"></script>
+
+<title>Integral</title>
 </head>
 
 <body>
+<style>
+.MathJax { font-size: 1.3em !important; }
+</style>
+<div class ="container-fluid">
+<div class="row ">
+<div class="col">
+<h1 class="text-center">Today's Integral is</h1>
+</div>
+</div>
+<div class="row align-items-end">
+<div class="col">
+ <div class="text-center" id="integral">$$$$</div>
+</div>
+</div>
+</div>
 
-  <section class="page-header">
-<h1 class="project-name"  id="Fullintegral" style="color:black;font-size: 4vw;"></h1>
-<h2 class="project-tagline">Is the Integral of the Day!</h2>
-<a href="https://goo.gl/forms/wxlNFZrsPyEdbK5D3">Application to be Integral Admin</a>
-<a href="https://dfsek.github.io/">Thanks dfsek</a>
-</section>
-<section class="main-content" id="content">
-<center><canvas id="canvas" width="750" height="250"></canvas></center>
 <script>
-document.getElementById("canvas").setAttribute("width", window.innerWidth - 175);
-</script>
-</section>
+var date= new Date(); 
+var seed= (date.getMonth()+1).toString() + (date.getDate()).toString() +(date.getFullYear()).toString();
+texLoad(texGen(seed));
+ </script>
 
-
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
 
 
