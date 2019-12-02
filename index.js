@@ -69,7 +69,7 @@ switch(strValue){
   case "l":
     return("pi");
   case "m":
-    return("e"); 
+    return("e");
   case "n":
     return("x");
   case "o":
@@ -91,7 +91,7 @@ switch(strValue){
   case "w":
     return("(#)^(#)");
   case "x":
-    return("sqrt(#)"); 
+    return("sqrt(#)");
   case "y":
     return("log(#,#)");
   case "z":
@@ -114,9 +114,16 @@ function eqBuild(seed){
 }
 
 function eqPicker(seed){
+  var d = "0";
   while(true){
-  eq=eqBuild(seed);
-  d=math.derivative(eq,"x").toString();
+  var eq=eqBuild(seed);
+  console.log(seed);
+  try{ // Sometimes the derivative function does not work 
+    d=math.derivative(eq,"x").toString();
+  }
+  catch(err){
+    d="0";
+  }
   if(d.includes('x')){
     return([eq,d]);
   }
@@ -136,7 +143,7 @@ function texGen(seed){
   tex= "$$ \\int" +math.parse(eqs[1]).toTex({parenthesis:'auto'})+"dx="+math.parse(eqs[0]).toTex({parenthesis:'auto'})+"+C $$";
   return(tex);
 }
-/** 
+/**
 function graph(seed){
   const parser = math.parser();
   var eqs=eqPicker(seed);
